@@ -2,7 +2,7 @@
 1- Goto : Google studio code
 2- Generate api
 3- copy api and paste in the app
-4- Click Thing
+4- Click Think
 
 # Note
 
