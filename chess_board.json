@@ -1,0 +1,136 @@
+{
+  "player1": {
+    "color": "White",
+    "king": {
+      "position": "e1",
+      "image_path": "images/white/king.png"
+    },
+    "queen": {
+      "position": "d1",
+      "image_path": "images/white/queen.png"
+    },
+    "rook1": {
+      "position": "a1",
+      "image_path": "images/white/rook.png"
+    },
+    "rook2": {
+      "position": "h1",
+      "image_path": "images/white/rook.png"
+    },
+    "knight1": {
+      "position": "b1",
+      "image_path": "images/white/knight.png"
+    },
+    "knight2": {
+      "position": "g1",
+      "image_path": "images/white/knight.png"
+    },
+    "bishop1": {
+      "position": "c1",
+      "image_path": "images/white/bishop.png"
+    },
+    "bishop2": {
+      "position": "f1",
+      "image_path": "images/white/bishop.png"
+    },
+    "pawn1": {
+      "position": "a2",
+      "image_path": "images/white/pawn.png"
+    },
+    "pawn2": {
+      "position": "b2",
+      "image_path": "images/white/pawn.png"
+    },
+    "pawn3": {
+      "position": "c2",
+      "image_path": "images/white/pawn.png"
+    },
+    "pawn4": {
+      "position": "d2",
+      "image_path": "images/white/pawn.png"
+    },
+    "pawn5": {
+      "position": "e2",
+      "image_path": "images/white/pawn.png"
+    },
+    "pawn6": {
+      "position": "f2",
+      "image_path": "images/white/pawn.png"
+    },
+    "pawn7": {
+      "position": "g2",
+      "image_path": "images/white/pawn.png"
+    },
+    "pawn8": {
+      "position": "h2",
+      "image_path": "images/white/pawn.png"
+    }
+  },
+  "player2": {
+    "color": "Black",
+    "king": {
+      "position": "e8",
+      "image_path": "images/black/king.png"
+    },
+    "queen": {
+      "position": "d8",
+      "image_path": "images/black/queen.png"
+    },
+    "rook1": {
+      "position": "a8",
+      "image_path": "images/black/rook.png"
+    },
+    "rook2": {
+      "position": "h8",
+      "image_path": "images/black/rook.png"
+    },
+    "knight1": {
+      "position": "b8",
+      "image_path": "images/black/knight.png"
+    },
+    "knight2": {
+      "position": "g8",
+      "image_path": "images/black/knight.png"
+    },
+    "bishop1": {
+      "position": "c8",
+      "image_path": "images/black/bishop.png"
+    },
+    "bishop2": {
+      "position": "f8",
+      "image_path": "images/black/bishop.png"
+    },
+    "pawn1": {
+      "position": "a7",
+      "image_path": "images/black/pawn.png"
+    },
+    "pawn2": {
+      "position": "b7",
+      "image_path": "images/black/pawn.png"
+    },
+    "pawn3": {
+      "position": "c7",
+      "image_path": "images/black/pawn.png"
+    },
+    "pawn4": {
+      "position": "d7",
+      "image_path": "images/black/pawn.png"
+    },
+    "pawn5": {
+      "position": "e7",
+      "image_path": "images/black/pawn.png"
+    },
+    "pawn6": {
+      "position": "f7",
+      "image_path": "images/black/pawn.png"
+    },
+    "pawn7": {
+      "position": "g7",
+      "image_path": "images/black/pawn.png"
+    },
+    "pawn8": {
+      "position": "h7",
+      "image_path": "images/black/pawn.png"
+    }
+  }
+}
